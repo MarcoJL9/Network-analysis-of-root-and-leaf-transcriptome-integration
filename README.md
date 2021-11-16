@@ -53,8 +53,6 @@ Example image:
 
 ![image](https://user-images.githubusercontent.com/94479457/142077113-50ec6184-d733-4268-9dc8-762be9215f89.png)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Finding comunnities in the network
-Aditionally to the master regulator analysis, an algorithm to find communities in the infered GRN was aplicated. 
+## Finding communities in the network
+Aditionally to the master regulator analysis, an algorithm to find communities in the infered GRN was applied. The code used to generate the communities is "Community detection.ipynb" which can be found on the directory "Programs".  
